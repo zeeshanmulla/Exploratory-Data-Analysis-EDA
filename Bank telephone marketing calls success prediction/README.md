@@ -80,4 +80,16 @@ where the researchers have used a very similar dataset as the one we will be usi
 
   Available at: [pdf] http://dx.doi.org/10.1016/j.dss.2014.03.001
                 [bib] http://www3.dsi.uminho.pt/pcortez/bib/2014-dss.txt
+# REFERENCES 
 
+[1] [Moro et al., 2014] S. Moro, P. Cortez and P. Rita.
+:A Data-Driven Approach to Predict the Success of
+Bank Telemarketing. Decision Support Systems, Elsevier,
+62:22-31, June 2014
+[2] David Arnott, Graham Pervan, Eight key issues
+for the decision support systems discipline, Decision
+Support Systems 44 (3) (2008) .
+[3] David L. Olson, Dursun Delen, Yanyan Meng,
+Comparative analysis of data mining methods for
+bankruptcy prediction, Decision Support Systems 52
+(2) (2012).
