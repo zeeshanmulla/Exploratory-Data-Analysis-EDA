@@ -17,7 +17,7 @@ Neural Networks (MLP Classifier) ||
 
 ![download](https://user-images.githubusercontent.com/29397302/85233705-f1b23880-b425-11ea-95ea-9ed95ea151c8.png)
 
-*** got interested in this case study after going through this post Medium [LINK](https://towardsdatascience.com/machine-learning-case-study-a-data-driven-approach-to-predict-the-success-of-bank-telemarketing-20e37d46c31c)  for deep dive visualization.. [Github Link to this]( )***
+*** got interested in this case study after going through this post Medium [LINK1](https://towardsdatascience.com/machine-learning-case-study-a-data-driven-approach-to-predict-the-success-of-bank-telemarketing-20e37d46c31c) [LINK2](https://www.researchgate.net/publication/260805594_A_Data-Driven_Approach_to_Predict_the_Success_of_Bank_Telemarketing)  for deep dive visualization.. [Github Link to this]( )***
 
 # About the Problem:
 We are given the data of direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (target variable y). This case study is inspired by [THIS RESEARCH PAPER](https://github.com/mullazeeshan/Exploratory-Data-Analysis-EDA/blob/master/Bank%20telephone%20marketing%20calls%20success%20prediction/relevant%20papers/targeted_marketing.pdf) 
