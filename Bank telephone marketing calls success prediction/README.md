@@ -17,7 +17,11 @@ Neural Networks (MLP Classifier) ||
 
 ![download](https://user-images.githubusercontent.com/29397302/85233705-f1b23880-b425-11ea-95ea-9ed95ea151c8.png)
 
-*** got interested in this case study after going through this post Medium[LINK](https://towardsdatascience.com/machine-learning-case-study-a-data-driven-approach-to-predict-the-success-of-bank-telemarketing-20e37d46c31c).. [Github Link to this]( )***
+*** got interested in this case study after going through this post Medium [LINK](https://towardsdatascience.com/machine-learning-case-study-a-data-driven-approach-to-predict-the-success-of-bank-telemarketing-20e37d46c31c)  for deep dive visualization.. [Github Link to this]( )***
+
+# About the Problem:
+We are given the data of direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (target variable y). This case study is inspired by [THIS RESEARCH PAPER](https://github.com/mullazeeshan/Exploratory-Data-Analysis-EDA/blob/master/Bank%20telephone%20marketing%20calls%20success%20prediction/relevant%20papers/targeted_marketing.pdf) 
+where the researchers have used a very similar dataset as the one we will be using throughout this case study for determining the success of Bank Telemarketing. The researchers in their paper have mentioned that the best result they have got was a AUC score of 0.8 and a ALIFT of 0.7. So as a goal we will try to produce a similar result in our case study.
 
 # Attribute information:
 # Bank Client Data
