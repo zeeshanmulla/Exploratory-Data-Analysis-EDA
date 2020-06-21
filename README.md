@@ -1,1 +1,1 @@
-# Auto-EDA
+# Exploratory-Data-Analysis-EDA
